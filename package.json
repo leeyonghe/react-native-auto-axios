@@ -1,0 +1,23 @@
+{
+  "name": "react-native-auto-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyonghe/react-native-auto-axios.git"
+  },
+  "keywords": [
+    "axios",
+    "react-native"
+  ],
+  "author": "davidlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeyonghe/react-native-auto-axios/issues"
+  },
+  "homepage": "https://github.com/leeyonghe/react-native-auto-axios#readme"
+}
